@@ -1,0 +1,6 @@
+Photino Messaging Network
+
+Comprised of 4 components:
+DNR Nodes
+Gateway Nodes (permissioned and unpermissioned)
+Que Nodes
