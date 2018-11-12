@@ -4,3 +4,20 @@ Comprised of 3 components, 4 functions:
 DNR Nodes - Distributed Name Resolution nodes
 Gateway Nodes (permissioned and unpermissioned) - Relay, Assembly and Topic Serving nodes
 Que Nodes - Message queuing, message backup, notification queuing/service
+
+Reserved Ports:
+DNR:
+55000-55024
+56000-56024
+59000,59001
+Gateway:
+33000-33009
+34000-34009
+53000,53001
+Que:
+45000,45024
+46000-46024
+59100,59101
+
+Inter-node file transfers:
+Random port between 58000 - 58099
