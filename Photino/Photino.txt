@@ -3,7 +3,7 @@ Photino Messaging Network
 Comprised of 3 components, 4 functions:
 DNR Nodes - Distributed Name Resolution nodes
 Gateway Nodes (permissioned and unpermissioned) - Relay, Assembly and Topic Serving nodes
-Que Nodes - Message queuing, message backup, notification queuing/service
+Queue Nodes - Message queuing, message backup, notification queuing/service
 
 Reserved Ports:
 DNR:
@@ -14,7 +14,7 @@ Gateway:
 33000-33009
 34000-34009
 53000,53001
-Que:
+Queue:
 45000,45024
 46000-46024
 59100,59101
