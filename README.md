@@ -1,3 +1,3 @@
 # PhotinoMessagingNetwork
 
-Anonymous Messaging Backbone for Photino v2
+Anonymous Messaging Backbone for Photino
